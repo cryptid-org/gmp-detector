@@ -1,8 +1,8 @@
 # Gmp-detector
 
-This repository's contains a reusable script, to detect all GMP function usages in different repositories.
+This repository contains a reusable script, to detect GMP functions starting with **mpz_** in different repositories.
 
-In order to do that we create a simple script, which lists all the functions in a specified folder.
+To do that we create a simple script, which lists all the functions in a specified folder.
 
 ## Usage
 
